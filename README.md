@@ -82,7 +82,7 @@ Uses fuzzy matching to recognize contact names even if pronunciation varies.
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Voice-Based-Email-Assistant.git
+git clone https://github.com/Adithya2369/AI-Voice-Based-Email-Assistant.git
 cd AI-Voice-Based-Email-Assistant
 ```
 
