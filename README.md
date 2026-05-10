@@ -72,7 +72,6 @@ Uses fuzzy matching to recognize contact names even if pronunciation varies.
 ```bash
 .
 ├── main.py
-├── requirements.txt
 └── README.md
 ```
 
@@ -109,6 +108,15 @@ APP_PASSWORD = "your_app_password"
 GEMINI_API_KEY = "your_gemini_api_key"
 ```
 
+4. Replace the contacts inside the script
+
+```python
+CONTACTS = {
+    "alpha": "contact1@gmail.com",
+    "beta": "contact2@gmail.com",
+    "charlie": "contact3@gmail.com"
+}
+```
 ---
 
 # 🚀 How It Works
@@ -151,7 +159,7 @@ Write an email
 
 Then speak the receiver's name.
 ```text
-Aadi
+alpha
 ```
 
 Then describe the email content verbally.
