@@ -13,7 +13,7 @@ An AI-powered voice-controlled email assistant built with Python that can:
 
 # 🎓 Academic Project Information
 
-This repository is part of my B.Tech Final Year Project and represents **Module 5** of the complete system.
+This repository is a part of my B.Tech Final Year Project and represents **Module 5 of 7** of the complete system.
 
 This module focuses on developing an AI-powered voice-based email assistant designed to improve accessibility and hands-free communication. The system integrates speech recognition, text-to-speech conversion, Gmail services, and Gemini AI to automate email reading and email generation using natural voice commands.
 
